@@ -1,19 +1,19 @@
 {
-  "name": "siyuan-ttf-HarmonyOS_Sans_SC-and-Twemoji",
+  "name": "siyuan-ttf-MiSans_SC-and-Twemoji",
   "author": "TCOTC",
-  "url": "https://github.com/TCOTC/siyuan-ttf-HarmonyOS_Sans_SC-and-Twemoji",
+  "url": "https://github.com/TCOTC/siyuan-ttf-MiSans_SC-and-Twemoji",
   "version": "1.2.4",
   "minAppVersion": "3.2.0",
   "backends": ["all"],
   "frontends": ["all"],
   "disabledInPublish": false,
   "displayName": {
-    "default": "HarmonyOS Sans and Twemoji",
-    "zh_CN": "鸿蒙黑体(简)和 Twemoji"
+    "default": "MiSans and Twemoji",
+    "zh_CN": "小米字体(简)和 Twemoji"
   },
   "description": {
-    "default": "HarmonyOS Sans & Twemoji",
-    "zh_CN": "HarmonyOS Sans SC & Twemoji"
+    "default": "MiSans & Twemoji",
+    "zh_CN": "MiSans SC & Twemoji"
   },
   "readme": {
     "default": "README.md",
@@ -22,5 +22,5 @@
   "funding": {
     "custom": ["https://bento.me/jeffff"]
   },
-  "keywords": ["font","Twitter Emoji","鸿蒙字体","表情包","表情符号","图标","icon"]
+  "keywords": ["font","Twitter Emoji","小米字体","表情包","表情符号","图标","icon"]
 }
