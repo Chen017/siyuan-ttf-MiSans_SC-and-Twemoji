@@ -1,15 +1,15 @@
-> Recent update: HarmonyOS Sans upgraded from v1.9 to v2.400, Twemoji upgraded from v15.1.0 to v16.0.1
+> Recent update: MiSans upgraded from v1.9 to v2.400, Twemoji upgraded from v15.1.0 to v16.0.1
 
-# HarmonyOS Sans and Twemoji
+# MiSans and Twemoji
 
-HarmonyOS Sans font files sourced from: [HarmonyOS Design Resources](https://developer.huawei.com/consumer/cn/design/resource/)/[Developer Documentation](https://developer.huawei.com/consumer/cn/doc/design-guides/font-0000001828772001). Converted from .ttf format to .woff format using [CloudConvert](https://cloudconvert.com/ttf-to-woff).
+MiSans font files sourced from: [MiSans Design Resources](https://developer.huawei.com/consumer/cn/design/resource/)/[Developer Documentation](https://developer.huawei.com/consumer/cn/doc/design-guides/font-0000001828772001). Converted from .ttf format to .woff format using [CloudConvert](https://cloudconvert.com/ttf-to-woff).
 
 Twemoji font file sourced from: [jdecked/twemoji](https://github.com/jdecked/twemoji): https://mirror.whynothugo.nl/twemoji.ttf/
 
 ### Notes
 
 - This plugin may be incompatible with other font or Emoji plugins in the marketplace. Please disable other font or Emoji plugins when using this one.
-- Traditional Chinese glyphs are not included because HarmonyOS Sans does not fully support traditional characters.
+- Traditional Chinese glyphs are not included because MiSans does not fully support traditional characters.
 
 ### Acknowledgments
 
